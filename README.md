@@ -1,3 +1,5 @@
+(forked from github.com/vokoshyv/webScraping, as part of Outco tutorial)
+
 # webScraping
 
 ###Setup
